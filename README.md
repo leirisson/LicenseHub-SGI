@@ -1,0 +1,2 @@
+# LicenseHub-SGI
+Planejamento Estratégico
